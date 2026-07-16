@@ -2,6 +2,10 @@
 
 Kho này tổng hợp các ghi chú ngắn bằng tiếng Việt về những lỗ hổng và rủi ro vận hành liên quan đến SQL. Mỗi chủ đề được tách thành một file Markdown riêng trong thư mục `vulnerabilities/`.
 
+## Lưu ý sử dụng
+
+Các ví dụ trong thư mục `vulnerabilities/` chỉ nhằm mục đích học tập và rà soát bảo mật nội bộ. Không triển khai các đoạn code được đánh dấu là không an toàn trong môi trường thật.
+
 ## Danh sách chủ đề
 
 - [SQL Injection](vulnerabilities/sql-injection.md)
